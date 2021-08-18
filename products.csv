@@ -1,0 +1,22 @@
+ID,Name,Category,Price,GlobalDiscount,Quantity
+bc_f,Big Chair,Furniture,69.99,0,20
+sc_f,Small Chair,Furniture,15.99,0,60
+aed_f,Marble Desk,Furniture,9999.99,0,1
+s6p_c,Socks - 6 pair,Clothing,2.5,0,105
+pts_c,iatesumpi tshirt,Clothing,3.14,0,1592
+rk_e,Rock,Essentials,0.29,0,3000
+sc_b,Shower Curtain,Bathroom,15.99,0,87
+ssu_k,ssteel Untensil Set,Kitchen,25.49,0,32
+n95fm_m,N95 Facemask,Medical,85.97,0,0
+ninarms_g,Arms,Gaming,59.99,0,30
+arms_e,Arms,Essentials,10,0,31
+tnj_ca,Tent - Jumbo,Camping,95.99,0,16
+mqt_ca,Mosquito,Camping,0,0,214748364
+jbl_c,jeans - blue,Clothing,15.29,0,12
+jbr_c,jeans - brown,Clothing,13.29,0,150
+tp_b,Toilet Paper,Bathroom,200,0,3
+qm_sl,Quartermaster,Sailing,15.25,0,4
+hm_sl,Halfmaster,Sailing,30.5,0,2
+bnd_m,Bandages - assorted,Medical,2.35,0,346
+band_m,Band-aids,Medical,12.35,0,346
+BARK,Dog,Woof,111,0,222
